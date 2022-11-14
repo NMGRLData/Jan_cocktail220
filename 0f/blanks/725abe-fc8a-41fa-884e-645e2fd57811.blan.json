@@ -1,8 +1,8 @@
 {
     "Ar36": {
-        "error": 0.00024669909637009297,
+        "error": 0.00012166589829227748,
         "error_type": "",
-        "fit": "Weighted Mean_SD",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "omit",
